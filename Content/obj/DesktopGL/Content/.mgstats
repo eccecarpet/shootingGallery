@@ -1,0 +1,5 @@
+Source File,Dest File,Processor Type,Content Type,Source File Size,Dest File Size,Build Seconds
+"C:/Users/eccec/source/repos/shootingGallery/Content/crosshairs.png","C:/Users/eccec/source/repos/shootingGallery/Content/bin/DesktopGL/Content/crosshairs.xnb","TextureProcessor","Texture2DContent",1892,10085,0.1431478
+"C:/Users/eccec/source/repos/shootingGallery/Content/galleryFont.spritefont","C:/Users/eccec/source/repos/shootingGallery/Content/bin/DesktopGL/Content/galleryFont.xnb","FontDescriptionProcessor","SpriteFontContent",2065,70690,0.1363683
+"C:/Users/eccec/source/repos/shootingGallery/Content/sky.png","C:/Users/eccec/source/repos/shootingGallery/Content/bin/DesktopGL/Content/sky.xnb","TextureProcessor","Texture2DContent",1079607,9216085,0.302939
+"C:/Users/eccec/source/repos/shootingGallery/Content/target.png","C:/Users/eccec/source/repos/shootingGallery/Content/bin/DesktopGL/Content/target.xnb","TextureProcessor","Texture2DContent",3395,32485,0.0041086
